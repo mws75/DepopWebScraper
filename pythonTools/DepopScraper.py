@@ -34,7 +34,7 @@ my_executable_path = "//Users//michaelspencer//OneDrive//SaniroStore//pythonTool
 depop_url = "https://www.depop.com/login/"    
 user_name = "ahnagrace"
 depop_user_url = "https://www.depop.com/"+ user_name + "/"
-login_password = "i<<<3mona"
+login_password = "password"
 login_button_id = "login__cta"
 login_button_xpath = "//button[@data-testid='login__cta']"
 
