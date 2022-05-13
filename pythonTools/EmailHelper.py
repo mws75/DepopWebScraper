@@ -4,7 +4,7 @@ import smtplib
 class EmailHelper: 
 
     helper_email_address = "mwspencerpythonhelper@gmail.com"
-    helper_password = "gteltlobsiapehdu"
+    helper_password = "password Goes here"
 
 
     def __init__(self, subject, message, reciever):
